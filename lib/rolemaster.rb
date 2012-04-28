@@ -1,0 +1,2 @@
+module Rolemaster
+end
